@@ -1,0 +1,102 @@
+.category {
+    /* width: 80px; */
+    /* height: 35px; */
+    /* background-color: rgba(41, 197, 98, 0.4); */
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 14px;
+    /* display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+    margin: 30px 30px 0px 30px;
+    color: #75A734;
+    font-weight: 600;
+}
+
+.news-title {
+    font-size: 42px;
+    line-height: 130%;
+    color: #000000;
+    margin: 10px 30px;
+}
+
+.news-by {
+    font-size: 18px;
+    line-height: 130%;
+    color: #777777;
+    margin: 0px 30px 0px 30px;
+}
+
+.article {
+    margin: 30px 30px;
+}
+
+.comments {
+    margin: 30px 30px 20px 30px;
+    font-size: 18px;
+    line-height: 130%;
+    color: #333333;
+    font-weight: 500;
+}
+
+.comment-section {
+    width: 95%;
+    margin: 0px auto 20px auto;
+    border: 1px solid #777777;
+    padding: 10px 20px 15px 20px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.content-sec {
+    font-size: 18px;
+    line-height: 130%;
+    color: #333333;
+    font-weight: 500;
+}
+
+.content-name {
+    font-size: 14px;
+    line-height: 130%;
+    color: #777777;
+    font-weight: 500;
+}
+
+.comment-action {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.comment-action a {
+    color: blue;
+}
+
+.input-field {
+    margin: 30px 30px 0px 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+textarea {
+    width: 60%;
+    resize: none;
+    height: 35px;
+    padding: 8px 10px;
+}
+
+.input-btn {
+    width: 100px;
+    height: 35px;
+    border: none;
+    outline: none;
+    background-color: rgba(41, 197, 98, 0.4);
+    border-radius: 4px;
+    font-weight: 600;
+    color: #000000;
+    cursor: pointer;
+}
