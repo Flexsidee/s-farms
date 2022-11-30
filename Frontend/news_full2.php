@@ -29,11 +29,11 @@
         </div>
 
         <div>
-            <p class="category">Humidity</p>
+            <p class="category">Temperature</p>
             <p class="news-title">
-            Recent Cases of High Humidity on my Farmland
+            High Temperature on the south side of the Country
             </p>
-            <p class="news-by">By Falola Olamide</p>
+            <p class="news-by">By Somade Daniel</p>
         </div>
 
         <div class="article">
@@ -54,8 +54,8 @@
         </div>
 
         <div class="comment-section">
-            <p class="content-sec">I really needed this piece of information </p>
-            <p class="content-name"> - Ibrahim</p>
+            <p class="content-sec">Now I understand why my crops are dry </p>
+            <p class="content-name"> - Ahmed</p>
             <div class="comment-action">
                 <a href="#">Reply</a>
                 <a href="#">Like</a>

@@ -31,9 +31,9 @@
         <div>
             <p class="category">Humidity</p>
             <p class="news-title">
-            Recent Cases of High Humidity on my Farmland
+            Cases of High Humidity on my Farmland
             </p>
-            <p class="news-by">By Falola Olamide</p>
+            <p class="news-by">By Soyemi Zainab</p>
         </div>
 
         <div class="article">

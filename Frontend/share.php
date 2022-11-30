@@ -42,7 +42,7 @@
                 <img src="./assets/img/temp.jpeg" alt="">
                 <div class="news-body">
                     <p class="subtitle">TEMPERATURE</p>
-                    <p class="title"><a href="./news_full.php">High Temperature on the south side of the Country</a></p>
+                    <p class="title"><a href="./news_full2.php">High Temperature on the south side of the Country</a></p>
                     <p class="author">By Somade Daniel</p>
                     <p class="body">I have experienced relatively high temperature on my farm over the past couple of
                         weeks which led to death of many crops.</p>
@@ -52,7 +52,7 @@
                 <img src="./assets/img/hum2.jpeg" alt="">
                 <div class="news-body">
                     <p class="subtitle">HUMIDITY</p>
-                    <p class="title"><a href="./news_full.php">Cases of High Humidity on my Farmland</a></p>
+                    <p class="title"><a href="./news_full3.php">Cases of High Humidity on my Farmland</a></p>
                     <p class="author">By Soyemi Zainab</p>
                     <p class="body">I have also experienced relatively high humidity on my farm over the past couple of
                         weeks but I was able to manage the situation.</p>
@@ -72,7 +72,7 @@
                 <img src="./assets/img/temp.jpeg" alt="">
                 <div class="news-body">
                     <p class="subtitle">TEMPERATURE</p>
-                    <p class="title"><a href="./news_full.php">High Temperature on the south side of the Country</a></p>
+                    <p class="title"><a href="./news_full2.php">High Temperature on the south side of the Country</a></p>
                     <p class="author">By Somade Daniel</p>
                     <p class="body">I have experienced relatively high temperature on my farm over the past couple of
                         weeks which led to death of many crops.</p>
@@ -82,7 +82,7 @@
                 <img src="./assets/img/hum2.jpeg" alt="">
                 <div class="news-body">
                     <p class="subtitle">HUMIDITY</p>
-                    <p class="title"><a href="./news_full.php">Cases of High Humidity on my Farmland</a></p>
+                    <p class="title"><a href="./news_full3.php">Cases of High Humidity on my Farmland</a></p>
                     <p class="author">By Soyemi Zainab</p>
                     <p class="body">I have also experienced relatively high humidity on my farm over the past couple of
                         weeks but I was able to manage the situation.</p>
