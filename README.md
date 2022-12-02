@@ -36,3 +36,16 @@
 You should see something like this 
 
 ![image](https://user-images.githubusercontent.com/48515473/204709007-21f42d8d-fbb9-4b4b-9975-a2b1b5df8027.png)
+
+
+**Names of Contributors**
+1. Dr Emmanuel Ajulo
+2. Mr Olaoye
+3. Mr Oloko
+4. Somade Daniel Oluwaseunfunmi
+5. Falola Olamide
+6. Nifemi Odukoya
+7. Daniel Abati
+8. Soyemi Zainab
+9. Precious Nwaenze
+10. Jide-Aremo Obamisilekunayo
