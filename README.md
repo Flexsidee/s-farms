@@ -40,12 +40,12 @@ You should see something like this
 
 **Names of Contributors**
 1. Dr Emmanuel Ajulo
-2. Mr Olaoye
+2. Mr Olaoye, O.J
 3. Mr Oloko
 4. Somade Daniel Oluwaseunfunmi
 5. Falola Olamide
 6. Nifemi Odukoya
 7. Daniel Abati
 8. Soyemi Zainab
-9. Precious Nwaenze
+9. Precious Nwaeze
 10. Jide-Aremo Obamisilekunayo
